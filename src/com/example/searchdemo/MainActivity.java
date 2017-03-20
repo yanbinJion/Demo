@@ -28,10 +28,7 @@ public class MainActivity extends Activity {
 		
 		leafInit();
 		TreeLeafAdapter leafAdapter = new TreeLeafAdapter(leafs, leafData);
-		
-		
-		
-		
+	//jflasjf;asf		
 		TreeLeafItemClickListener leafItemClickListener = new TreeLeafItemClickListener(
 				leafAdapter);
 		
