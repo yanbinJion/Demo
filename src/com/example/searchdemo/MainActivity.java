@@ -29,6 +29,9 @@ public class MainActivity extends Activity {
 		leafInit();
 		TreeLeafAdapter leafAdapter = new TreeLeafAdapter(leafs, leafData);
 		
+		
+		
+		
 		TreeLeafItemClickListener leafItemClickListener = new TreeLeafItemClickListener(
 				leafAdapter);
 		
